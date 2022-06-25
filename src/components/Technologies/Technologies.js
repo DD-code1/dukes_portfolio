@@ -10,8 +10,7 @@ const Technologies = () => ( <
     <
     SectionTitle > Technologies < /SectionTitle> <
     SectionText >
-    I 've worked with few technologies in the web development world.
-    From Front - end & Blockchain <
+    I have worked with few technologies in the web development world.From Front - end & Blockchain <
     /SectionText> <
     List >
     <

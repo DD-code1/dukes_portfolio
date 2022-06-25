@@ -19,7 +19,7 @@ const NavDropDown = (props) => ( <
     DropDownTextContainer >
     <
     DropDownItemTitle > Email < /DropDownItemTitle> <
-    DropDownItemDesc > Let 's get together and have a chat?' < /DropDownItemDesc> < /
+    DropDownItemDesc > Let get together and have a chat ? < /DropDownItemDesc> < /
     DropDownTextContainer > <
     /DropDownItem> <
     DropDownItem href = "#"
@@ -34,7 +34,7 @@ const NavDropDown = (props) => ( <
     DropDownTextContainer >
     <
     DropDownItemTitle > Email < /DropDownItemTitle> <
-    DropDownItemDesc > If you want to talk jus send a message and I 'll get back</DropDownItemDesc> < /
+    DropDownItemDesc > If you want to talk jus send a message and I will get back < /DropDownItemDesc> < /
     DropDownTextContainer > <
     /DropDownItem> <
     DropDownItem href = "#"
@@ -49,7 +49,7 @@ const NavDropDown = (props) => ( <
     DropDownTextContainer >
     <
     DropDownItemTitle > Address < /DropDownItemTitle> <
-    DropDownItemDesc > Community 25 Tema, Ghana. < /DropDownItemDesc> < /
+    DropDownItemDesc > Community 25 Tema Ghana. < /DropDownItemDesc> < /
     DropDownTextContainer > <
     /DropDownItem> < /
     DropDownContainer >
